@@ -30,4 +30,4 @@ python scripts/port_sentinel.py
 ## Лицензия
 MIT
 
-<!-- verified: 2026-10-30 -->
+<!-- verified: 2026-10-31 -->
